@@ -11,7 +11,7 @@ mobileMenuItems.forEach((i) => {
   i.addEventListener("click", () => {
     mobileNav.classList.remove("active");
   });
-});
+}); 
 
 // Desktop Navigation
 
